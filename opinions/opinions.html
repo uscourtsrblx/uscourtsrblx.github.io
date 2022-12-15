@@ -35,15 +35,14 @@
     <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
     <!-- end custom head snippets -->
 	<style>
-		body, html {
+	body, html {
 		height: 100%;
 		margin: 0;
 		font-family: Arial, Helvetica, sans-serif;
 	}
 
-		.hero-image {
-		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(sc_banner.png);
-		background-color: #cccccc;
+	.hero-image {
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("sc_banner.png");
 		height: 50%;
 		background-position: center;
 		background-repeat: no-repeat;
@@ -57,6 +56,22 @@
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
+		color: white;
+	}
+
+	.hero-text button {
+		border: none;
+		outline: 0;
+		display: inline-block;
+		padding: 10px 25px;
+		color: black;
+		background-color: #ddd;
+		text-align: center;
+		cursor: pointer;
+	}
+
+	.hero-text button:hover {
+		background-color: #555;
 		color: white;
 	}
 	
@@ -87,14 +102,14 @@
       </header>
     </div>
     <!-- MAIN CONTENT -->
+	<div class="hero-image">
+		<div class="hero-text">
+			<h1 style="font-size:50px">Published Opinions</h1>
+		</div>
+	</div>
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner" style="max-width:1000px;">
-        <div class="hero-image">
-          <div class="hero-text">
-            <h1>Published Opinions</h1>
-          </div>
-        </div>
-        <p1>The Supreme Court publishes slip opinions that announce the high court's ruling on a case before it is published into a bound volume at the end of the year. These cases are cited as [Appellant] v. [Appellee], [TermYear] M.S.C. ___ (2022). Once they are published in a volume, they receive a different citation.</p1>
+        <p1><br>The Supreme Court publishes slip opinions that announce the high court's ruling on a case before it is published into a bound volume at the end of the year. These cases are cited as [Appellant] v. [Appellee], [TermYear] M.S.C. ___ (2022). Once they are published in a volume, they receive a different citation.</p1>
         <h1>2022 Term Opinions</h1>
         <table>
           <tr>
@@ -106,6 +121,11 @@
             <td><a href='/opinions/6-08_Alex_Artemis_v_State.pdf'>Alex_Artemis v. State of Mayflower</a></td>
             <td>6 M.S.C. 08 (2022)</td>
             <td>12-20-2022</td>
+          </tr>
+		  <tr>
+            <td><a href='/opinions/6-14_Ex_Parte_Syneths.pdf'>Ex Parte Syneths</a></td>
+            <td>6 M.S.C. 14 (2022)</td>
+            <td>12-08-2022</td>
           </tr>
         </table>
       </section>
