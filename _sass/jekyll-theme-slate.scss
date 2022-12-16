@@ -226,13 +226,15 @@ table {
   border: 1px solid #ddd;
 }
 
-th, td {
-  text-align: left;
-  padding: 16px;
+th {
+	text-align: left;
+	padding: 16px;
+	background-color: #254D77;
+	color: #ffffff;
 }
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #ddd;
 }
 
 form {
@@ -269,21 +271,6 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-#forkme_banner {
-  display: block;
-  position: absolute;
-  top:0;
-  right: 10px;
-  z-index: 10;
-  padding: 10px 50px 10px 10px;
-  color: #fff;
-  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
-  font-weight: 700;
-  box-shadow: 0 0 10px rgba(0,0,0,.5);
-  border-bottom-left-radius: 2px;
-  border-bottom-right-radius: 2px;
-}
-
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/sc_banner.png");
@@ -315,26 +302,12 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(to top, #373737, #212121);
+  border-bottom: 5px solid #E6BD64;
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
-}
-
-#project_title {
-  margin: 0;
-  color: #fff;
-  font-size: 42px;
-  font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
-}
-
-#project_tagline {
-  color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  background: none;
-  text-shadow: #111 0px 0px 10px;
+  padding: 0px;
+  max-width: 1000px;
 }
 
 #main_content_wrap {
@@ -345,6 +318,7 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
+  max-width:1000px;
 }
 
 #footer_wrap {
