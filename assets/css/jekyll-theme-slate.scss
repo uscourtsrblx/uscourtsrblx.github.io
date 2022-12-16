@@ -233,6 +233,11 @@ th {
 	color: #ffffff;
 }
 
+td {
+	text-align: left;
+	padding: 10px;
+}
+
 tr:nth-child(even) {
   background-color: #ddd;
 }
@@ -276,7 +281,7 @@ Full-Width Styles
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/sc_banner.png");
 
   /* Set a specific height */
-  height: 50%;
+  height: 300px;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
