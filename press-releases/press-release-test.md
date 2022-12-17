@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**__For Immediate Release__**\
+**For Immediate Release**\
 January 27, 2022
 
 
