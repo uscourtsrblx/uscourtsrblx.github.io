@@ -1,12 +1,3 @@
-<head>
-	<meta content="og:title" property="Christmas Holiday Break Notice" />
-    <meta content="og:description" property="Today, the Supreme Court has adopted a proclamation to close the Court and the lower courts for the holidays from December 23rd to December 26th. During this time, the courthouse will be closed to the public and all hearings and proceedings will be postponed until the court resumes its regular schedule..." />
-</head>
-
----
-layout: default
----
-
 **For Immediate Release**\
 December 20, 2022
 
