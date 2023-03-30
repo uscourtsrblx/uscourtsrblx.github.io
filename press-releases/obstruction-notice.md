@@ -1,3 +1,8 @@
+<head>
+	<meta content="og:title" property="Public Notice in Regards to the Impeachment of Colonel AA_MP" />
+    <meta content="og:description" property="LANDER, MF — On March 28th, the Immigration and Customs Force deported a party involved in an ongoing impeachment matter. Hours later, leadership with the Mayflower State Police and of the Immigrations and Customs Force began communicating with impeachment managers in an effort to likely influence their work. These efforts are... [Read More](https://mfcourts.github.io/press-releases/impeachment-obstruction.html)" />
+</head>
+
 **For Immediate Release**\
 March 29, 2023
 
