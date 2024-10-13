@@ -1,0 +1,706 @@
+<html class="k-webkit k-webkit127 js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Register - Electronic Filing System External</title>
+
+
+    <script type="text/javascript" language="javascript">
+        var ua = navigator.userAgent.toLowerCase();
+        var currentPath = window.location.toString().toLowerCase();
+
+        if ((ua.indexOf('msie') > -1 || ua.indexOf('trident') > -1) && currentPath.indexOf('notsupported') == -1) {  /*   && currentPath.indexOf('notsupported') == -1 */
+            window.location.href = "/NotSupported";
+        }
+
+        if (!window.navigator.cookieEnabled && currentPath.indexOf('cookiedisabled') == -1) {
+            window.location.href = "/CookieDisabled";
+        }
+    </script>
+
+    
+
+    
+        <link href="/bundles/content.css?v=DS_SkY4bZxYsMvPDKam0hDhx69w" rel="stylesheet">
+        <link href="/lib/kendo.css?v=And9a_RBPGtv4jb9vy5_8Wk5rVw" rel="stylesheet">
+        <script src="/bundles/jquery.js?v=ZlDUIWIlF2ViN6_gpoUgXHDJSe4"></script>
+        <script src="/bundles/jqueryval?v=pyJufYr-iw25qag2EP5lgwqJUiI"></script>
+        <script src="/bundles/bootstrap.js?v=jRpzQp3q0h6ZZnLvfKjDO5mvi2c"></script>
+        <script src="/bundles/kendoweb.js?v=RbSR2MGIT-lOH2toVJZRJTECirw"></script>
+        <script src="/bundles/modernizr.js?v=1E5htmHnDISZPVufbnh7euOM504"></script>
+    
+
+
+    
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="NDVXR-ABWZZ-KSN43-63TZR-AB73Q",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"NDVXR-ABWZZ-KSN43-63TZR-AB73Q";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="ncmpvdaxzmylizyl7c7a-f-d3c443f91-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"624519","ak.ai":parseInt("427465",10),"ak.ol":"0","ak.cr":96,"ak.ipv":4,"ak.proto":"h2","ak.rid":"cbb9db8","ak.r":40049,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"104.152.250.0","ak.cport":53250,"ak.gh":"23.206.192.193","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1728837822","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ynIvhyNbCA11z58Z4kaFrnxV9RpCADj6tDdFHdD8eYH3s1dBKAanmkiOazpmzWeLX83H1uuQdaKXoGX5Yj8aD8RjcUFnDSshomqXqT+LUwNVxDm8OgC1NYPiHc76U58Khg62PllDmyY1mL4Bz4MU6r8mVX3ZKKql6NBNu7kXB99mkl+67hol3QbaiQmeXkitRjogkwlZsl2DoXR5S68FdW+tR/SAV1sWwuvHdEUxcKJolOouYLpfOZed8Cb+Jc8YFCnoRJoIDSBYVWWhrqqMyEjcNyK33Nn0cW2SE2a6pnBspPOJliY+C9WIhfKUsDveECtCh7zSfv92wBXybFHz7WciSM27a/1855OCBKiRpSrvGec0GwOV0Wof3kYjiSWeukTDeMs1zlnhHTfuEf/XftX+QczK+o4BINGStUKOcWk=","ak.pv":"30","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="https://s.go-mpulse.net/boomerang/NDVXR-ABWZZ-KSN43-63TZR-AB73Q" rel="preload" as="script"><style type="text/css" id="operaUserStyle"></style><style type="text/css">:root [href^="//mage98rquewz.com/"], :root [href^="//x4pollyxxpush.com/"], :root span[id^="ezoic-pub-ad-placeholder-"], :root ins.adsbygoogle[data-ad-slot], :root ins.adsbygoogle[data-ad-client], :root guj-ad, :root gpt-ad, :root div[id^="zergnet-widget"], :root div[id^="vuukle-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="st"][style^="z-index: 999999999;"], :root div[id^="pa_sticky_ad_box_middle_"], :root div[id^="gpt_ad_"], :root div[id^="ezoic-pub-ad-"], :root div[id^="dfp-ad-"], :root div[id^="crt-"][style], :root div[id^="adspot-"], :root div[id^="adrotate_widgets-"], :root ps-connatix-module, :root div[id^="ad_position_"], :root div[id^="ad-div-"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-id-advertdfpconf], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-alias="300x250 Ad 2"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-adname], :root div[data-ad-placeholder], :root div[class^="native-ad-"], :root div[data-dfp-id], :root div[class^="kiwi-ad-wrapper"], :root div[aria-label="Ads"], :root display-ads, :root display-ad-component, :root atf-ad-slot, :root aside[id^="adrotate_widgets-"], :root ark-top-ad, :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root amp-connatix-player, :root amp-ad-custom, :root amp-ad, :root div[id^="google_dfp_"], :root ad-slot, :root ad-shield-ads, :root a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://xbet-4.com/"], :root div[id^="ad-position-"], :root a[href^="https://www.toprevenuegate.com/"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://www.onlineusershielder.com/"], :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancecpmgate.com/"], :root a[href^="https://www.highcpmrevenuenetwork.com/"], :root a[href^="https://lnkxt.bannerator.com/"], :root a[href^="https://www.geekbuying.com/dynamic-ads/"], :root a[href^="https://www.financeads.net/tc.php?"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root a[href^="https://www.dql2clk.com/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.dating-finder.com/signup/?ai_d="], :root a[href^="https://explore-site.com/"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://www.adxsrve.com/"], :root [data-template-type="nativead"], :root a[href^="https://www.endorico.com/Smartlink/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://voluum.prom-xcams.com/"], :root a[href^="https://twinrdsrv.com/"], :root a[href^="https://trk.nfl-online-streams.club/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root [data-identity="adhesive-ad"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://tatrck.com/"], :root a[href^="https://click.candyoffers.com/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://t.aslnk.link/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://safesurfingtoday.com/"][href*="?skip="], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://t.acam.link/"], :root a[href*="//daichoho.com/"], :root a[href^="https://syndication.optimizesrv.com/"], :root a[href^="https://go.trackitalltheway.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root div[data-alias="300x250 Ad 1"], :root a[href^="https://syndicate.contentsserved.com/"], :root a[href^="https://svb-analytics.trackerrr.com/"], :root a[href^="https://streamate.com/landing/click/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://slkmis.com/"], :root bottomadblock, :root a[href^="https://s.zlinkd.com/"], :root a[href^="https://s.zlink3.com/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://s.optzsrv.com/"], :root a[href^="https://random-affiliate.atimaze.com/"], :root #kt_player > div[style$="display: block;"][style*="inset: 0px;"], :root a[href^="https://quotationfirearmrevision.com/"], :root a[href^="https://pubads.g.doubleclick.net/"], :root a[href^="https://ak.oalsauwy.net/"], :root a[href^="https://softwa.cfd/"], :root a[href^="https://play1ad.shop/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://www.dating-finder.com/?ai_d="], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root app-ad, :root [href^="https://ap.octopuspop.com/click/"] > img, :root a[href^="https://postback1win.com/"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://pb-track.com/"], :root a[href^="https://pb-front.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://ngineet.cfd/"], :root a[href^="https://upsups.click/"], :root a[href^="https://ndt5.net/"], :root a[href^="http://eighteenderived.com/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root a[href^="https://m.do.co/c/"] > img, :root .nya-slot[style], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://lobimax.com/"], :root a[href^="https://lead1.pl/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://kiksajex.com/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://snowdayonline.xyz/"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://jaxofuna.com/"], :root a[href^="https://itubego.com/video-downloader/?affid="], :root a[href^="https://italarizege.xyz/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="https://hot-growngames.life/"], :root a[href^="https://golinks.work/"], :root a[href^="https://go.xxxvjmp.com/"], :root [class^="tile-picker__CitrusBannerContainer-sc-"], :root a[href^="https://go.xxxiijmp.com"], :root a[href^="https://go.xtbaffiliates.com/"], :root .OUTBRAIN[data-widget-id^="FMS_REELD_"], :root [data-role="tile-ads-module"], :root a[href^="https://go.xlviirdr.com"], :root a[href^="https://go.xlviiirdr.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://go.xlirdr.com"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://l.hyenadata.com/"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://zirdough.net/"], :root a[href^="https://s.deltraff.com/"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://lijavaxa.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.dmzjmp.com"], :root div[class^="Display_displayAd"], :root a[href^="https://www.bang.com/?aff="], :root #mgb-container > #mgb, :root a[href^="https://go.admjmp.com"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://www.adskeeper.com"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://clicks.affstrack.com/"] > img, :root a[href^="https://ak.hauchiwu.com/"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="https://engine.blueistheneworanges.com/"], :root a[href^="https://drumskilxoa.click/"], :root a[href^="https://dl-protect.net/"], :root a[href^="https://rixofa.com/"], :root #ads[style^="position: absolute; z-index: 30; width: 100%; height"], :root a[href^="https://disobediencecalculatormaiden.com/"], :root a[href*=".foxqck.com/"], :root a[href^="https://ctosrd.com/"], :root a[href^="https://clixtrac.com/"], :root [href^="https://noqreport.com/"] > img, :root a[href^="https://clicks.pipaffiliates.com/"], :root a[href^="https://datewhisper.life/"], :root a[href^="https://get-link.xyz/"], :root a[href^="https://click.linksynergy.com/fs-bin/"] > img, :root a[href^="https://combodef.com/"], :root AD-TRIPLE-BOX, :root a[href^="https://click.hoolig.app/"], :root a[href^="https://track.totalav.com/"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="http://www.iyalc.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://s.ma3ion.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://t.ajrkm1.com/"], :root [href="https://masstortfinancing.com"] img, :root a[href^="https://bongacams10.com/track?"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://bngpt.com/"], :root a[href^="https://black77854.com/"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="http://revolvemockerycopper.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root a[href^="https://aweptjmp.com/"], :root [class^="s2nPlayer"], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://ausoafab.net/"], :root a[href^="https://activate-game.com/"], :root .scroll-fixable.rail-right > .deals-rail, :root [data-wpas-zoneid], :root a[href^="https://a2.adform.net/"], :root a[href^="https://auesk.cfd/"], :root a[href^="https://ak.psaltauw.net/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://bc.game/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://adultfriendfinder.com/go/"], :root a[href^="https://ads.planetwin365affiliate.com/"], :root a[href^="https://ads.leovegas.com/"], :root a[href^="https://a.candyai.love/"], :root a[href^="https://playnano.online/offerwalls/?ref="], :root a[href^="https://a.adtng.com/"], :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root div[id^="rc-widget-"], :root a[href^="http://eslp34af.click/"], :root a[href^="https://turnstileunavailablesite.com/"], :root a[href^="https://chaturbate.com/in/?"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href*="&maxads="], :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://1betandgonow.com/"], :root a[href^="https://eergortu.net/"], :root div[id^="optidigital-adslot"], :root a[href^="https://123-stream.org/"], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="https://allhost.shop/aff.php?"], :root [data-dynamic-ads], :root a[href^="http://vnte9urn.click/"], :root a[href^="https://getvideoz.click/"], :root a[href^="http://troopsassistedstupidity.com/"], :root a[href^="http://trk.globwo.online/"], :root a-ad, :root a[href^="https://offhandpump.com/"], :root a[href^="http://stickingrepute.com/"], :root #slashboxes > .deals-rail, :root [data-rc-widget="data-rc-widget"], :root a[href^="http://premonitioninventdisagree.com/"], :root a[href^="http://naggingirresponsible.com/"], :root a[href^="https://in.rabbtrk.com/"], :root div[data-ad-targeting], :root a[href^="https://hotplaystime.life/"], :root a[href^="http://www.h4trck.com/"], :root a[href^="https://81ac.xyz/"], :root a[href^="http://guestblackmail.com/"], :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[href^="https://trk.softonixs.xyz/"], :root a[href^="https://sexynearme.com/"], :root a[href^="https://myclick-2.com/"], :root a[href^="http://dragnag.com/"], :root a[href^="https://trk.sportsflix4k.club/"], :root a[href^="http://dragfault.com/"], :root [id^="div-gpt-ad"], :root .ob_container .item-container-obpd, :root div[id^="yandex_ad"], :root a[href^="https://www8.smartadserver.com/"], :root a[href^="https://pb-imc.com/"], :root a[href^="http://deskfrontfreely.com/"], :root [data-advadstrackid], :root a[href^="http://muzzlematrix.com/"], :root a[href^="https://track.adform.net/"], :root a[href^="http://avthelkp.net/"], :root a[href^="https://a.medfoodhome.com/"], :root a[href^="https://engine.flixtrial.com/"], :root [data-type="ad-vertical"], :root [data-taboola-options], :root a[href^="http://annulmentequitycereals.com/"], :root a[href^="//startgaming.net/tienda/" i], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://s.cant3am.com/"], :root a[href^="//s.st1net.com/splash.php"], :root a[href^="https://join.virtualtaboo.com/track/"], :root [id^="ad_sky"], :root a[href^="http://coefficienttolerategravel.com/"], :root a[href^="https://a.medfoodsafety.com/"], :root a[href^="//go.eabids.com/"], :root a[href^="//ejitsirdosha.net/"], :root a[href^=" https://www.friendlyduck.com/AF_"], :root a[href*="/jump/next.php?r="], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root .\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://lone-pack.com/"], :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root a[href^="https://t.ajrkm3.com/"], :root a[href^="//stighoazon.com/"], :root [href^="https://www.profitablegatecpm.com/"], :root div[id^="lazyad-"], :root a[href^="http://com-1.pro/"], :root a[href*=".cfm?domain="][href*="&fp="], :root [data-ad-name], :root a[href^="https://loboclick.com/"], :root a[data-url^="https://vulpix.bet/?ref="], :root a[href^="https://ab.advertiserurl.com/aff/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://go.xlivrdr.com"], :root [onclick^="location.href='https://1337x.vpnonly.site/"], :root [name^="google_ads_iframe"], :root [id^="section-ad-banner"], :root [href^="https://zone.gotrackier.com/"], :root a[href^="http://sarcasmadvisor.com/"], :root [href^="https://www.restoro.com/"], :root [href^="https://www.targetingpartner.com/"], :root div[class^="Adstyled__AdWrapper-"], :root a[href^="https://startgaming.net/tienda/" i], :root .section-subheader > .section-hotel-prices-header, :root [href^="https://www.hostg.xyz/"] > img, :root a[href^="http://adultfriendfinder.com/go/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://tour.mrskin.com/"], :root [href^="https://www.brighteonstore.com/products/"] img, :root citrus-ad-wrapper, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="https://go.grinsbest.com/"], :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root a[href^="https://losingoldfry.com/"], :root [href^="https://routewebtk.com/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root [href^="https://join.girlsoutwest.com/"], :root a[href^="https://track.aftrk3.com/"], :root [href^="https://join3.bannedsextapes.com"], :root a[href^="https://bodelen.com/"], :root a[href*=".g2afse.com/"], :root div[id^="adngin-"], :root [data-rc-widget], :root span[data-ez-ph-id], :root [href^="https://track.aftrk1.com/"], :root [href^="https://join.playboyplus.com/track/"], :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root [href^="https://go.xlrdr.com"], :root a[href^="https://tm-offers.gamingadult.com/"], :root [href^="https://charmingdatings.life/"], :root [href^="https://glersakr.com/"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root [id^="ad-wrap-"], :root a[href*="//jjgirls.com/sex/Chaturbate"], :root a[href^="https://a.bestcontentfood.top/"], :root [href^="https://cpa.10kfreesilver.com/"], :root [data-id^="div-gpt-ad"], :root a[href^="https://tracker.loropartners.com/"], :root [href^="https://awbbjmp.com/"], :root a[data-href^="http://ads.trafficjunky.net/"], :root a[href*=".adsrv.eacdn.com/"], :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href^="http://partners.etoro.com/"], :root a[href^="https://www.friendlyduck.com/AF_"], :root [href^="https://ad1.adfarm1.adition.com/"], :root a[href^="https://bngprm.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.bushheel.com/"], :root a[href^="https://ctjdwm.com/"], :root a[href^="https://camfapr.com/landing/click/"], :root div[data-ad-wrapper], :root .gnt_em_vp_c[data-g-s="vp_dk"], :root [href="//sexcams.plus/"], :root [href^="http://www.mypillow.com/"] > img, :root #kt_player > a[target="_blank"], :root a[href^="http://bongacams.com/track?"], :root [href^="http://mypillow.com/"] > img, :root [href="https://ourgoldguy.com/contact/"] img, :root #teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103;"], :root [href="https://www.masstortfinancing.com/"] > img, :root a[href^="https://go.rmhfrtnd.com/"], :root [href="https://jdrucker.com/gold"] > img, :root a[href^="https://track.1234sd123.com/"], :root zeus-ad, :root [data-testid="prism-ad-wrapper"], :root [href^="https://ad.admitad.com/"], :root [href^="https://mypillow.com/"] > img, :root [data-testid="ad_testID"], :root [href^="https://optimizedelite.com/"] > img, :root [data-name="adaptiveConstructorAd"], :root a[href^="https://go.cmtaffiliates.com/"], :root [href^="https://mylead.global/stl/"] > img, :root [data-testid="adBanner-wrapper"], :root [href^="https://goldcometals.com/clk.trk"], :root [href^="https://mypatriotsupply.com/"] > img, :root a[href^="https://go.hpyjmp.com"], :root [href^="https://mystore.com/"] > img, :root [href^="https://wct.link/click?"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root a[href^="https://witnessjacket.com/"], :root [data-mobile-ad-id], :root a[href^="https://fc.lc/ref/"], :root [data-adshim], :root topadblock, :root a[href^="//s.zlinkd.com/"], :root [class^="amp-ad-"], :root a[href^="http://handgripvegetationhols.com/"], :root a[href^="https://bs.serving-sys.com"], :root a[href^="https://gamingadlt.com/?offer="], :root [data-desktop-ad-id], :root a[href^="https://www.liquidfire.mobi/"], :root .grid > .container > #aside-promotion, :root DFP-AD, :root [id^="ad_slider"], :root [data-adbridg-ad-class], :root #teaser3[style^="width:autopx;"], :root [data-adblockkey], :root [data-block-type="ad"], :root [data-ad-width], :root [onclick*="content.ad/"], :root [data-ad-manager-id], :root AMP-AD, :root [data-ad-cls], :root [data-revive-zoneid] > iframe, :root [data-ez-name], :root a[href^="https://go.mnaspm.com/"], :root a[href^="https://service.bv-aff-trx.com/"], :root a[href^="https://6-partner.com/"], :root a[href^="https://traffdaq.com/"], :root [href^="https://www.cloudways.com/en/?id"], :root #teaser1[style^="width:autopx;"], :root [class^="div-gpt-ad"], :root a[href^="http://tc.tradetracker.net/"] > img, :root [href^="https://affiliate.fastcomet.com/"] > img, :root [class^="adDisplay-module"], :root [data-freestar-ad][id], :root [href^="https://v.investologic.co.uk/"], :root AD-SLOT, :root a[href^="https://www.googleadservices.com/pagead/aclk?"] > img, :root [data-ad-module], :root div[id^="div-gpt-"], :root a[href^="https://gml-grp.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root app-advertisement, :root a[href^="https://getmatchedlocally.com/"], :root a[href^="https://clickins.slixa.com/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="http://li.blogtrottr.com/click?"], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root #teaser2[style^="width:autopx;"], :root a[href^="https://t.ajump1.com/"], :root a[href^="https://go.xxxjmp.com"], :root #leader-companion > a[href] { display: none !important; }</style><script id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/NDVXR-ABWZZ-KSN43-63TZR-AB73Q" async=""></script></head>
+<body>
+
+
+    <div class="container scus-card card-body">
+        
+    <div class="row scus-bannerStyle">
+        <div class="col-md-6 col-xs-12">
+            <img src="/Content/Images/clearpixel.gif" style="width: 400px; height: 121px;">
+        </div>
+        <div class="col-md-6 col-xs-12">
+             
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark rounded navbar-scus2">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link " href="/">Home</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link active" href="/Account/Register">Register</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="/Home/Help">Help</a>
+        </li>
+       
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+        <div class="body-content">
+            <div class="alert-container"></div>
+            
+
+<style>
+    fieldset mylegend {
+        display: inline-block;
+        max-width: 100%;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-10 sc-h3" style="font-weight:bold;">
+        <h2>Register</h2>
+    </div>
+    <div class="col-md-2 text-right input-sm required" style="vertical-align: top;">
+        Required Information
+    </div>
+</div>
+
+
+<form method="post" class="form-horizontal" role="form" id="registerForm" action="/Account/Register" data-role="validator" novalidate="novalidate"> 
+
+
+    
+
+    <div class="text-danger validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+    <section>
+        <fieldset>
+            <legend style="display: inline-block; max-width: 100%; margin-bottom: 5px; font-weight: bold; font-size: 15px;">
+                <div id="divRegister">
+                    To register for an account, you must be a member of the Supreme Court Bar or appointed under the Federal Criminal Justice Act, 18 U.S.C. §3006A(d)(7).
+                </div>
+            </legend>
+            <div class="checkbox offset-md-1 col-md-9" id="checkboxBar-input">
+
+                <input type="checkbox" id="BarMember" autofocus="" data-val="true" data-val-required="The BarMember field is required." name="Filer.BarMember" value="true">
+                <label>Check here if you are a member of the Supreme Court Bar.</label>
+            </div>
+            <div class="checkbox offset-md-1 col-md-9" id="checkboxCJA-input">
+                <input type="checkbox" id="CJA" autofocus="" data-val="true" data-val-required="The CJA field is required." name="UserProfile.CJA" value="true">
+                <label class="non-bold">Check here if you are not a Bar member and were appointed under the Criminal Justice Act.</label>
+            </div>
+        </fieldset>
+    </section>
+
+    <div id="certificatestate" style="display: none;">
+        <fieldset>
+            <legend>
+                <h3>Supreme Court Bar</h3>
+            </legend>
+
+            <div class="row mb-3">
+                <label class="col-md-3 col-form-label fw-bold required" for="Filer_CertificateState">Certification State</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" data-val="true" data-val-requirediftrue="Bar member Certification State is required." data-val-requirediftrue-boolprop="BarMember" id="Filer_CertificateState" name="Filer.CertificateState">
+                        <option value="">--- Please select ---</option>
+                    <option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AS">American Samoa</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FM">Federated States of Micronesia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="GU">Guam</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MH">Marshall Islands</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="MP">Northern Mariana Islands</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PW">Palau</option>
+<option value="PA">Pennsylvania</option>
+<option value="PR">Puerto Rico</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VI">Virgin Islands</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+<option value="XX">Foreign</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.CertificateState" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </fieldset>
+    </div>
+
+    <div id="CJA-inputs" style="display: none;">
+        <fieldset>
+            <legend>
+                <h3>Criminal Justice Act Attorneys</h3>
+            </legend>
+            <div class="row">
+                <div class="offset-md-3 col-md-9 fw-bold">
+                    <label>Federal Lower Court Details</label>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-md-3 col-form-label fw-bold required" for="UserProfile_LowerCourtID">Lower Court</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" data-val="true" data-val-requirediftrue="Lower Court is required." data-val-requirediftrue-boolprop="CJA" id="UserProfile_LowerCourtID" name="UserProfile.LowerCourtID">
+                        <option value="">--- Please select ---</option>
+                    <option value="9191">District of Columbia Court of Appeals</option>
+<option value="917">United States Bankruptcy Appellate Panel for the 10th Circuit</option>
+<option value="566">United States Court of Appeals for the Armed Forces</option>
+<option value="14">United States Court of Appeals for the District of Columbia Circuit</option>
+<option value="10">United States Court of Appeals for the Eighth Circuit</option>
+<option value="13">United States Court of Appeals for the Eleventh Circuit</option>
+<option value="631">United States Court of Appeals for the Federal Circuit</option>
+<option value="1">United States Court of Appeals for the Fifth Circuit</option>
+<option value="5">United States Court of Appeals for the First Circuit</option>
+<option value="3">United States Court of Appeals for the Fourth Circuit</option>
+<option value="11">United States Court of Appeals for the Ninth Circuit</option>
+<option value="6">United States Court of Appeals for the Second Circuit</option>
+<option value="9">United States Court of Appeals for the Seventh Circuit</option>
+<option value="8">United States Court of Appeals for the Sixth Circuit</option>
+<option value="12">United States Court of Appeals for the Tenth Circuit</option>
+<option value="7">United States Court of Appeals for the Third Circuit</option>
+<option value="897">United States Foreign Intelligence Surveillance Court of Review</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.LowerCourtID" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-md-3 col-form-label fw-bold required" for="UserProfile_LowerCourtCase">Lower Court Case#</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="text" data-val="true" data-val-requirediftrue="Lower Court Case# is required." data-val-requirediftrue-boolprop="CJA" id="UserProfile_LowerCourtCase" name="UserProfile.LowerCourtCase" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.LowerCourtCase" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="offset-md-3 col-md-9 fw-bold">
+                    <label>Supreme Court Details</label>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label fw-bold col-md-3" for="UserProfile_SupremeCourtCase">Supreme Court Case #</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="text" id="UserProfile_SupremeCourtCase" name="UserProfile.SupremeCourtCase" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SupremeCourtCase" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </fieldset>
+    </div>
+
+
+    <div id="form-container" style="display: none">
+        <fieldset>
+            <legend><h3>Login</h3></legend>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserName">Choose User Name</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="text" data-val="true" data-val-length="Choose User Name must be at least 4 characters long and a maximum of 100." data-val-length-max="100" data-val-length-min="4" data-val-remote="'Choose User Name' is invalid." data-val-remote-additionalfields="*.UserName" data-val-remote-url="/Account/VerifyUserExists" data-val-required="Choose User Name is required." id="UserName" maxlength="100" name="UserName" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="Password">Choose Password</label>
+                <div class="col-md-6">
+                    <div class="input-group control-size-md">
+                        <input type="password" class="form-control" onfocusout="CheckPassword(this)" data-val="true" data-val-passwordpolicy="Password does not meet policy." data-val-required="Choose Password is required." id="Password" name="Password">
+                        <span class="input-group-btn">
+                            <a data-bs-target="#myModal" data-bs-toggle="modal" aria-label="Password Policy" class="btn btn-xs bi bi-question-circle-fill" title="Password Policy" href="#myModal" style="font-size:22px;">
+                            </a>
+                        </span>
+                    </div>
+          <span class="field-validation-valid text-danger" data-valmsg-for="CPassword" data-valmsg-replace="true"></span>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="ConfirmPassword">Confirm Password</label>
+                <div class="col-md-9">
+                    <input class="control-size-md form-control" data-val="true" data-val-equalto="Password and Confirmation Password do not match." data-val-equalto-other="*.Password" data-val-required="Confirm password is required." id="ConfirmPassword" name="ConfirmPassword" type="password" onkeyup="CheckMatch(this, '#Password');">
+                    <span class="field-validation-valid text-danger" data-valmsg-for="ConfirmPassword" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="FilerEmail_Email">Email</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="email" data-val="true" data-val-email="The Email field is not a valid e-mail address." data-val-regex="Email format is not valid." data-val-regex-pattern="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$" data-val-remote="'Email' is invalid." data-val-remote-additionalfields="*.Email" data-val-remote-url="/Account/VerifyEmailExists" data-val-required="Email is required." id="FilerEmail_Email" name="FilerEmail.Email" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="FilerEmail.Email" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="FilerEmail_ConfirmEmail">Confirm Email</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" onkeyup="CheckMatch(this, '#Email')" type="email" data-val="true" data-val-email="The Confirm Email field is not a valid e-mail address." data-val-equalto="Email and Confirm Email do not match." data-val-equalto-other="*.Email" data-val-regex="Confirm Email format is not valid." data-val-regex-pattern="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$" data-val-required="Confirm Email is required." id="FilerEmail_ConfirmEmail" name="FilerEmail.ConfirmEmail" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="FilerEmail.ConfirmEmail" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend><h3>User</h3></legend>
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="Filer_PrefixID">Prefix</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" data-val="true" data-val-required="Prefix is required." id="Filer_PrefixID" name="Filer.PrefixID">
+                        <option value="">--- Please select ---</option>
+                    <option value="1">Mr.</option>
+<option value="2">Miss</option>
+<option value="3">Mrs.</option>
+<option value="4">Ms.</option>
+<option value="5">Dr.</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.PrefixID" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="Filer_FirstName">First Name</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="text" data-val="true" data-val-regex="First Name is not in proper format." data-val-regex-pattern="^[a-zA-ZÀ-ÿ0-9_.\\s'\- ]*$" data-val-required="The First Name is required." id="Filer_FirstName" name="Filer.FirstName" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.FirstName" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold" for="Filer_MiddleName">Middle Name</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="text" data-val="true" data-val-regex="Middle Name is not in proper format." data-val-regex-pattern="^[a-zA-ZÀ-ÿ0-9_.\\s'\- ]*$" id="Filer_MiddleName" name="Filer.MiddleName" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.MiddleName" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="Filer_LastName">Last Name</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-md" type="text" data-val="true" data-val-regex="Last Name is not in proper format." data-val-regex-pattern="^[a-zA-ZÀ-ÿ0-9_.\\s'\- ]*$" data-val-required="The Last Name is required." id="Filer_LastName" name="Filer.LastName" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.LastName" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold" for="Filer_SuffixID">Suffix</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" id="Filer_SuffixID" name="Filer.SuffixID">
+                        <option value="">--- Please select ---</option>
+                    <option value="1">Jr.</option>
+<option value="2">Sr.</option>
+<option value="3">II</option>
+<option value="4">III</option>
+<option value="5">IV</option>
+<option value="6">V</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.SuffixID" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="Filer_PhoneNumber">Phone</label>
+                <div class="col-md-3">
+                    <input class="form-control control-size-sm" type="text" data-val="true" data-val-regex="Phone format is not valid." data-val-regex-pattern="[+]?([0-9]*[\.\s\-\(\)]|[0-9]+){3,24}$" data-val-required="Phone is required." id="Filer_PhoneNumber" name="Filer.PhoneNumber" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.PhoneNumber" data-valmsg-replace="true"></span>
+                </div>
+                <div class="col-md-2 col-form-label fw-bold">
+                    <label for="Filer_PhoneExtension">Ext.</label>
+                </div>
+                <div class="col-md-3">
+                    <input class="form-control control-size-xs" type="text" data-val="true" data-val-length="Ext. value cannot exceed 10 characters. " data-val-length-max="10" data-val-regex="Ext. format is not valid." data-val-regex-pattern="^[a-zA-Z0-9]+$" id="Filer_PhoneExtension" maxlength="10" name="Filer.PhoneExtension" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.PhoneExtension" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="Filer_BirthDate">Date of Birth</label>
+                <div class="col-md-9">
+                    <input class="form-control control-size-sm" type="text" placeholder="Enter as MM/DD/YYYY" data-val="true" data-val-date="Must be a valid date (MM/DD/YYYY)" data-val-dateonly="Must be a valid date (MM/DD/YYYY)" data-val-dobyearsisvalid="Date of birth must be within the last 100 years." data-val-futuredate="Date of Birth must be less than today." data-val-required="The Date of Birth field is required." id="Filer_BirthDate" name="Filer.BirthDate" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="Filer.BirthDate" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+        </fieldset>
+
+
+        <fieldset>
+            <legend><h3>Security Questions</h3></legend>
+            <div>
+                <p style="display: inline-block; max-width: 100%; margin-bottom: 5px; font-weight: bold; font-size: 15px;">
+                    Please enter three security questions and answers for password recovery.
+                </p>
+            </div>
+
+            <div class="row mb-3" id="sq-formgroup">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserProfile_SecurityQuestion1">Security Question 1</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" data-val="true" data-val-required="Security Question 1 is required." id="UserProfile_SecurityQuestion1" name="UserProfile.SecurityQuestion1">
+                        <option value="">--- Please select ---</option>
+                    <option value="1">What was your childhood nickname?</option>
+<option value="2">In what city did you meet your spouse/significant other?</option>
+<option value="3">What is the name of your favorite childhood friend?</option>
+<option value="4">What street did you live on in third grade?</option>
+<option value="5">What is your oldest sibling’s birthday month and year? (e.g., January 1900)  </option>
+<option value="6">What is the middle name of your oldest child?</option>
+<option value="7">What is your oldest sibling's middle name?</option>
+<option value="8">What school did you attend for sixth grade?</option>
+<option value="9">What was your childhood phone number including area code? (e.g., 000-000-0000) </option>
+<option value="10">What is your oldest cousin's first and last name?</option>
+<option value="11">What was your dream job as a child?</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SecurityQuestion1" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserProfile_SecurityQuestionAnswer1">Security Answer 1</label>
+                <div class="col-md-9">
+                    <input class="control-size-md form-control" type="text" data-val="true" data-val-required="Security Answer 1 is required." id="UserProfile_SecurityQuestionAnswer1" name="UserProfile.SecurityQuestionAnswer1" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SecurityQuestion1" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserProfile_SecurityQuestion2">Security Question 2</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" data-val="true" data-val-required="Security Question 2 is required." id="UserProfile_SecurityQuestion2" name="UserProfile.SecurityQuestion2">
+                        <option value="">--- Please select ---</option>
+                    <option value="12">What is the street number of the house you grew up in?</option>
+<option value="13">What was the name of your first stuffed animal?</option>
+<option value="14">In what city or town did your mother and father meet?</option>
+<option value="16">What was the last name of your third grade teacher?</option>
+<option value="17">In what city does your nearest sibling live?</option>
+<option value="18">What is your oldest brother’s birthday month and year? (e.g., January 1900)  </option>
+<option value="19">What is your maternal grandmother's maiden name?</option>
+<option value="20">In what city or town was your first job?</option>
+<option value="21">What is the name of the place your wedding reception was held?</option>
+<option value="22">What month and day is your anniversary? (e.g., January 2) </option>
+<option value="23">What is your grandmother's first name?</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SecurityQuestion1" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserProfile_SecurityQuestionAnswer2">Security Answer 2</label>
+                <div class="col-md-9">
+                    <input class="control-size-md form-control" type="text" data-val="true" data-val-required="Security Answer 2 is required." id="UserProfile_SecurityQuestionAnswer2" name="UserProfile.SecurityQuestionAnswer2" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SecurityQuestionAnswer2" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserProfile_SecurityQuestion3">Security Question 3</label>
+                <div class="col-md-9">
+                    <select class="form-control control-size-md form-select" data-val="true" data-val-required="Security Question 3 is required." id="UserProfile_SecurityQuestion3" name="UserProfile.SecurityQuestion3">
+                        <option value="">--- Please select ---</option>
+                    <option value="24">What is the name of a college you applied to but didn't attend?</option>
+<option value="26">What was the name of your elementary / primary school?</option>
+<option value="27">What is the name of the company of your first job?</option>
+<option value="28">What was your favorite place to visit as a child?</option>
+<option value="29">What is your spouse's mother's maiden name?</option>
+<option value="30">What is the country of your ultimate dream vacation?</option>
+<option value="31">What is the name of your favorite childhood teacher?</option>
+<option value="32">To what city did you go on your honeymoon?</option>
+<option value="33">What time of the day were you born?</option>
+<option value="34">What is your mother's middle name?</option>
+<option value="35">What is the last name of your favorite high school teacher?</option>
+</select>
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SecurityQuestion3" data-valmsg-replace="true"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-md-3 fw-bold required" for="UserProfile_SecurityQuestionAnswer3">Security Answer 3</label>
+                <div class="col-md-9">
+                    <input class="control-size-md form-control" type="text" data-val="true" data-val-required="Security Answer 3 is required." id="UserProfile_SecurityQuestionAnswer3" name="UserProfile.SecurityQuestionAnswer3" value="">
+                    <span class="text-danger field-validation-valid" data-valmsg-for="UserProfile.SecurityQuestionAnswer3" data-valmsg-replace="true"></span>
+                </div>
+
+            </div>
+        </fieldset>
+
+
+        <section>
+            <fieldset>
+                <legend><h3>Consent</h3></legend>
+
+                <div class="offset-md-1 col-md-11">
+                    <b>
+                        CONSENT TO ELECTRONIC NOTIFICATION.
+                    </b> By registering to file documents in the Supreme Court of the United States electronically, I understand and agree that I will receive correspondence from the Court and parties via email at the address(es) I provide.
+                    <br><br>
+
+                    <b>CONSENT TO ELECTRONIC SIGNATURE.</b> I understand and agree that when I log into the Supreme Court e-file system I am electronically signing any document I submit for filing.
+                    <br><br>
+                </div>
+
+
+                <div class="row mb-3">
+                    <div class="checkbox offset-md-1 col-md-10">
+                        <input type="checkbox" data-val="true" data-val-checkrequired="Please Accept Consent Policy." data-val-required="The TermsAndConditionsAccepted field is required." id="TermsAndConditionsAccepted" name="TermsAndConditionsAccepted" value="true">
+                        <label class="required" for="TermsAndConditionsAccepted"> I agree to Electronic Notification and Electronic Signatures.</label>
+                        <span class="danger field-validation-valid" data-valmsg-for="TermsAndConditionsAccepted" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+
+            </fieldset>
+        </section>
+
+        <div class="row">
+            <div class="row mb-3">
+                <div class="col-md-7 offset-md-1">
+                   
+          
+                </div>
+                </div>
+             <div class="row mb-3">
+                <div class="col-md-7 offset-md-1">
+                    <div class="k-widget k-captcha" style=""><div class="k-captcha-image-wrap k-hstack"><div class="k-captcha-image"><img alt="Type the Captcha code from the image" src="/captcha/image?captchaId=6375d238-48fd-4285-8c24-b7103f082218" tabindex="0"></div><div class="k-captcha-image-controls k-vstack"><button type="button" title="Speak captcha" class="k-button k-button-md k-rounded-md k-button-solid k-button-solid-base k-icon-button"><span class="k-button-icon k-icon k-i-volume-up"></span></button><button type="button" title="Reset captcha" class="k-button k-button-md k-rounded-md k-button-solid k-button-solid-base k-icon-button"><span class="k-button-icon k-icon k-i-reload"></span></button></div></div><div class="k-captcha-input k-vstack"><span class="k-input k-textbox k-input-solid k-input-md k-rounded-md" style="width: auto; height: auto;"><input id="captcha" name="captcha" required="" oninvalid="true" placeholder="Enter text from the image" attributes:="" {="" style:="" "width:="" 280px"="" }="" data-role="captcha" aria-disabled="false" class="k-input-inner" autocomplete="off" style="width: 100%; height: auto;"></span><input type="hidden" name="captchaId" value="6375d238-48fd-4285-8c24-b7103f082218" data-stop="true"></div></div>
+                </div>
+            </div> 
+
+        </div>
+
+        <div class="row" id="form-submit">
+            <div class="offset-md-1 col-md-8">
+                <input type="submit" class="btn btn-default" value="Register" id="SubmitButton" name="SubmitButton" onclick="onSubmit()">
+                <input type="button" id="btnCancel" name="btnCancel" class="btn btn-default" value="Cancel" onclick="location.href='/Account/Login'">
+            </div>
+        </div>
+      
+
+    </div>
+
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8LWjh78o-U5EigyPTWy9BmfiCUk8o8IAbRh-a6B9kAAo1M0DM74xzItNw_tGpXLGMPfUR1L8-iD1RxnER6VoDhecVOq33uA1ZvzO0pRwvIY-pHkp3vtvErKtJMuw8aPpjhhzq6VO5jZzmAMkluMCPlI"><input name="Filer.BarMember" type="hidden" value="false"><input name="UserProfile.CJA" type="hidden" value="false"><input name="TermsAndConditionsAccepted" type="hidden" value="false"></form>
+
+<div id="myModal" class="modal fade" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Password Policy</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+         The Password must be at least 8 characters long.
+                <br>
+                Password must contain three (3) of the following:
+                <ul>
+                    <li>Lowercase letter.</li>
+                    <li>Uppercase letter.</li>
+                    <li>Number.</li>
+                    <li>Special character. (!#$%^&amp;*()_+[]{}?:;|'\"\\,./~`-=) </li>
+                </ul>
+     </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script src="/js/client-side-captcha-validation.js?v=ZxbEgeKK8AAB5Jd_lQiH7T81COc"></script>
+<script src="/Scripts/Custom/CustomValidators.js?v=hqG1gUaauRf_XCejtCnU62Ts1YQ"></script>
+
+<script type="text/javascript">
+    $.validator.setDefaults({
+        ignore: ""
+
+    });
+       
+      
+    ///====== Attorney checkboxes. ================
+    $('#CJA').click(function () {
+        if (this.checked) {
+            $('#CJA-inputs').show();
+            $('#checkboxBar-input').hide();
+            $('#checkboxCJA-input').hide();  //========  Added 2/23/16 JW  =====
+            $('#divRegister').hide();        //========  Added 9/12/16 ID  =====
+            $('#form-container').show();
+        }
+    })
+    $("#captcha").kendoCaptcha({
+        error: function (data) {
+            console.log(data);
+        },
+        handler: '/Captcha/Reset',
+        audioHandler: function (args) {
+            args.success("./Captcha/audio?captchaId=" + args.data.captchaId)
+        },
+        validationHandler: '/Captcha/validate',
+        requestEnd: function (ev) {
+            if (ev.type === "validation" && ev.data === false) {
+                ev.sender.reset();      // calls reset if the validation fails. You can implement if you need to reset.
+                
+
+            } else if (ev.type === "validation" && ev.data === true) {
+                $('#registerForm').submit();
+            } else {
+                return false;
+            }
+             }
+        
+    });
+
+    $('#BarMember').click(function () {
+        if (this.checked) {
+            $('#certificatestate').show();
+            $('#checkboxCJA-input').hide();
+            $('#checkboxBar-input').hide();    //======== Added 2/23/16 JW  =====
+            $('#divRegister').hide();          //======== Added 9/12/16 ID  =====
+            $('#form-container').show();
+        }
+    })
+
+    //$("form").bind('invalid-form.validate',
+    //    function (event, validator) {
+    //        $("#CaptchaCode").get(0).Captcha.ReloadImage();
+    //        return false;
+    //    }
+    //);
+
+    // This check is for page returned from controller when error
+
+    if ($("#BarMember").is(':checked')) {// checked
+        $('#certificatestate').show();
+        $('#checkboxCJA-input').hide();
+        $('#form-container').show();
+    }
+    if ($("#CJA").is(':checked')) { // checked
+        $('#CJA-inputs').show();
+        $('#checkboxBar-input').hide();
+        $('#form-container').show();
+    }
+
+    ///====== End Attorney checkboxes. ================
+
+
+    ///Checks EmailConfirm & Password match
+
+    function CheckMatch(thisField, fieldToCompare) {
+        var fieldToCompareValue = $(fieldToCompare).val();
+        if (fieldToCompare != $(thisField).val()) {
+            $("form").validate().element(thisField)
+        }
+    };
+
+    function CheckPassword(thisField){
+      $("form").validate().element(thisField); 
+    };
+
+    $("#registerForm").kendoValidator({
+        validateOnBlur: false
+    });
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+    <div class="container scus-card card-body">      
+        <hr>
+        <footer>
+            <div class="text-center">
+                <span style="display: block; margin-top: 5px; font-size: 14pt; font-weight: bold; color: black;">Supreme Court of the United States</span>
+            </div>
+        </footer>
+    </div>
+
+    
+
+
+    <script src="/bundles/app.js?v=sWceCIalpcGHhIh7SxKuOIBLukc"></script>
+    
+
+
+</body></html>
